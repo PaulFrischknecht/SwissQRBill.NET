@@ -299,7 +299,7 @@ namespace Codecrete.SwissQRBill.Generator.PDF
         }
 
         /// <summary>
-        /// Add the specified text to the curren text object.
+        /// Add the specified text to the current text object.
         /// </summary>
         /// <param name="text">The text.</param>
         public void ShowText(string text)
